@@ -1,2 +1,8 @@
-need to create conflit
-create merging
+<<<<<<< HEAD
+trying for conflict
+need to merge and revert
+create conflict and resolve
+=======
+trying for conflict
+need to merge and revert
+>>>>>>> projectbr1
